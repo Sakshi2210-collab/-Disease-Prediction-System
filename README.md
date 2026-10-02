@@ -1,1 +1,1 @@
-Deployed link : https://lnkd.in/gsRH6tJ3
+Deployed link : https://disease-prediction-system-ka8j.vercel.app/
